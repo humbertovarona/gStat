@@ -1,0 +1,96 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Geostatistical analysis of oceanographic and meteorological datasets (gStat)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Silena
+    family-names: Herold-Garcia
+    email: silena.herold@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-9238-3472'
+  - given-names: Noriega
+    family-names: Carlos
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Araujo
+    family-names: Moacyr
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+  - given-names: Hernandez
+    family-names: Fabrice
+    email: fabrice.hernandez@ird.fr
+    affiliation: >-
+      Institut de Recherche pour le Développement (IRD), LEGOS, Univ Toulouse,
+      CNRS, CNES, Toulouse, France
+    orcid: 'https://orcid.org/0000-0003-2152-0657'
+repository-code: 'https://doi.org/10.5281/zenodo.13243330'
+abstract: >-
+  Geostatistics is a branch of applied statistics that focuses on the analysis
+  and modeling of spatial and geographic phenomena. It uses mathematical and
+  statistical methods to study and predict the distribution of variables that
+  vary in space, such as the concentration of minerals in the soil, air quality
+  in a region, or the distribution of species in an ecosystem. Through techniques
+  like kriging, geostatistics allows for the interpolation and estimation of
+  values in unsampled areas, providing precise maps and models that are
+  essential for decision-making in fields like geology, hydrology, agronomy, and
+  urban planning. This discipline integrates spatial data with contextual
+  information to offer a more comprehensive and detailed view of the studied
+  environment, thus contributing to better management and utilization of natural
+  resources.
+
+  A software that performs geostatistical analysis is essential because it
+  allows users to process and analyze spatial data efficiently and accurately.
+  Its importance lies in several key aspects:
+
+  1- Precision in Decision Making: By providing accurate maps and models of the
+  distribution of spatial variables, it helps make informed decisions in fields
+  like geology, hydrology, agronomy, and urban planning.
+  2- Interpolation and Estimation: It uses advanced techniques like kriging to
+  estimate values in unsampled areas, allowing for a more comprehensive
+  understanding of the studied phenomenon without the need for exhaustive
+  sampling.
+  3- Handling Large Volumes of Data: It can process large sets of spatial data,
+  facilitating the analysis of trends and patterns in environmental and natural
+  resource studies.
+  4- Resource Optimization: It helps identify areas of interest or concern,
+  enabling better management and utilization of natural resources, as well as
+  the implementation of mitigation measures in problematic areas.
+  5- Data Integration: It allows for the integration of spatial data with
+  contextual information, offering a holistic view of the environment and
+  improving the understanding of interactions between different variables.
+
+keywords:
+  - Geostatistics analysis
+  - Mean
+  - Standard Deviation
+  - Variance
+  - Meteorology
+  - Oceanography
+  - Coefficient of Variation
+  - Mean Absolute Deviation
+  - Median Absolute Deviation
+  - Mean Standard Error
+license: MIT
+version: '1.7'
+date-released: '2024-04-09'
